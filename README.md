@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # commitlock
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CommitLock
+>>>>>>> 55e9c26e00c63f3c78f312f277fab219fb0f24ba
